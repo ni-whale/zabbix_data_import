@@ -1,0 +1,10 @@
+2022-09-15 18:18:25,783 JSON-RPC Server Endpoint: http://fdmech900up.pcg.cargill.com/zabbix/api_jsonrpc.php
+2022-09-15 18:18:25,991 Zabbix API version is: 6.0.8
+2022-09-15 18:18:26,206 [-] Access denied. Error:('Error -32500: Application error., Incorrect user name or password or account is temporarily blocked.', -32500)
+2022-09-15 18:18:26,206 ----------------------------------------------------------------------------------
+2022-09-15 18:18:48,008 JSON-RPC Server Endpoint: http://fdmech900up.pcg.cargill.com/zabbix/api_jsonrpc.php
+2022-09-15 18:18:48,209 Zabbix API version is: 6.0.8
+2022-09-15 18:19:03,275 [+] File was read successfully.
+2022-09-15 18:19:03,275 ----------------------------------------------------------------------------------
+2022-09-15 18:19:03,616 [-] test-drac1 was not added to Zabbix.
+2022-09-15 18:19:03,964 [-] test-drac2 was not added to Zabbix.

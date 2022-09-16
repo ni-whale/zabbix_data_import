@@ -11,8 +11,6 @@ class ZabbixAPIModule:
     def __init__(self):
         self.login = input("Enter username: ")
         self.password = getpass.getpass('Enter password: ', stream=None)
-        # login = "Nikita"
-        # password = "Winter2022$$"
         self.group_id = 70
 
 
